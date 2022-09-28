@@ -7,8 +7,7 @@ export const FirstApp = () => {
   return (
     <>
       <h1>Hola Mundo</h1>
-      <code>{JSON.stringify(newMessage)}</code>
-      <p>Jose</p>
+      <p>Juan Jose</p>
     </>
 
   )
