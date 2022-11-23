@@ -18,7 +18,7 @@ export const CounterApp = ({ title, value }) => {
   return (
     <>
       <h1>{title}</h1>
-      <h2> {counter} </h2>
+      <h2>{counter}</h2>
       <button onClick={addOne}> +1 </button>
       <button onClick={minusOne}> -1 </button>
       <button onClick={equalZero}> Reset </button>
